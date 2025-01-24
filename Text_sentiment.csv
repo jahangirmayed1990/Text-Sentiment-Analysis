@@ -1,0 +1,34 @@
+Serial ,review,Sentiment
+1,     The movie was fantastic! I loved it.,positive
+2,"        Terrible movie, waste of time.",negative
+3,        It was an average experience.,neutral
+4,        Absolutely brilliant performance!,positive
+5,        The plot was boring and predictable.,negative
+6,        I absolutely love this product! It exceeded all my expectations and is incredibly easy to use.,positive
+7,"The weather today is perfect, I'm so excited to go for a walk in the park.",positive
+8,"This movie was amazing! The plot was thrilling, and the acting was superb.",positive
+9,        I am very disappointed with the service. They were late and the quality was poor.,negative
+10,"This restaurant was a huge letdown. The food was cold, and the staff was rude.",negative
+11,The book didn’t live up to the hype. It was boring and had no substance.,negative
+12,"        I received my order today, but I haven't had the chance to try it yet.",neutral
+13,"It’s a sunny day, but there’s a slight breeze in the air.,",neutral
+14,"I went to the store, but they didn’t have the item I was looking for.",neutral
+15,"        The concert was fantastic, but the venue was overcrowded and uncomfortable.",Mixed
+16,"I love my new phone, but the battery life could definitely be better.",Mixed
+17,"The team performed well, but there were some technical issues during the event",Mixed
+18,"        I’m so happy with my new job! Everyone is welcoming, and the work is exciting.",positive
+19,"      The vacation was wonderful, and the beach was stunning. Can’t wait to go back!",positive
+20,"        This book is amazing. I couldn’t put it down, and the characters are so relatable.",positive
+21,I’m really enjoying the new season of this show. It’s full of surprises!,positive
+22,"  I am really disappointed with the hotel. The room wasn’t clean, and the staff was rude.",negative
+23,"The concert was a huge letdown. The sound quality was terrible, and we couldn’t see anything",negative
+24,This restaurant is overpriced for the quality of food they serve. I won’t be coming back.,negative
+25,I don’t like this book at all. It’s slow and hard to follow.,negative
+26,The meeting is scheduled for 3 PM today.,neutral
+27,I went to the store to buy groceries. They had a sale on fruits.,neutral
+28,"The weather looks clear, but I don’t know if it’ll rain later.",neutral
+29,I received an email from customer service. They said they will reply in 48 hours.,neutral
+30,I have a doctor's appointment tomorrow afternoon.,neutral
+31,"        I love the design of the app, but it crashes too often.",mixed
+32,"The food was delicious, but the service was slow and unprofessional.,",mixed
+33,"The trip was fun, though I had some issues with the transportation.",mixed
